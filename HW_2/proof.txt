@@ -1,0 +1,18 @@
+=== Container ===
+hw2-nginx
+
+=== Container ID ===
+0c9b79d538538578de7088bbf3167a34dea94da4ab2001434b5d54061ebead84
+
+=== Hostname ===
+0c9b79d53853
+
+=== Check before edit ===
+-rw-r--r-- 1 root root 615 Feb  4 15:12 /usr/share/nginx/html/index.html
+4:<title>Welcome to nginx!</title>
+
+=== Check after edit ===
+4:<title>Welcome from 0c9b79d53853</title>
+
+=== Saved file ===
+C:\Users\artur\OneDrive\Рабочий стол\Docker & cloud technologies\HW\HW_2\index.html
